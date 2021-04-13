@@ -176,12 +176,12 @@ summary {
   font-size: 13pt;
 }
 
-/*.ron {
+.ron {
   font-family: Nothing You Could Do;
   font-size: 14pt;
 }
 
-#contact h1 {
+/*#contact h1 {
   font-family: helvetica;
   font-weight: normal;
   text-align: center;
