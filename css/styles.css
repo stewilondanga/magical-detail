@@ -1,4 +1,12 @@
 @import url('https://fonts.googleapis.com/css?family=Covered+By+Your+Grace|Crafty+Girls|Homemade+Apple|Kavivanar|Nothing+You+Could+Do|Reenie+Beanie');
+
+body {
+  background-image: url("https://pre00.deviantart.net/5287/th/pre/f/2007/177/a/8/seamless_parchment_texture_by_fantasystock.jpg");
+  font-family: Kavivanar;
+  font-size: 18pt;
+  margin: 10%;
+}
+
 /*body {
   text-align: center;
   font-family: courier;
@@ -108,13 +116,6 @@
   transition-delay: 0.4s;
 }
 
-
-body {
-  background-image: url("https://pre00.deviantart.net/5287/th/pre/f/2007/177/a/8/seamless_parchment_texture_by_fantasystock.jpg");
-  font-family: Kavivanar;
-  font-size: 18pt;
-  margin: 10%;
-}
 details {
   text-align: left;
 }
