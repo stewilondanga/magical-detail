@@ -120,13 +120,14 @@ details[open] summary {
   transform: translate(-100px, -100px);
 }
 
-/*summary {
+summary {
   background: rgb(140, 110, 90);
   width: 300px;
   padding: 5px;
   margin: 5px;
 }
-.pushDown {
+
+/*.pushDown {
   margin-top: 70px;
 }
 
