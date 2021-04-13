@@ -131,11 +131,11 @@ summary {
   margin-top: 70px;
 }
 
-/*
 .menuSlideDown {
-    animation:slideDown .5s;
+  animation: slideDown .5s;
 }
 
+/*
 @keyframes slideDown {
    0% {
      opacity:0;
