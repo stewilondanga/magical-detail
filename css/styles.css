@@ -1,4 +1,4 @@
-body {
+/*body {
   text-align: center;
   font-family: courier;
   background-image: url("../assets/image.jpeg");
@@ -105,6 +105,80 @@ body {
 
 .share-button:hover .share__link:nth-of-type(4) {
   transition-delay: 0.4s;
+}
+
+@import url('https://fonts.googleapis.com/css?family=Covered+By+Your+Grace|Crafty+Girls|Homemade+Apple|Kavivanar|Nothing+You+Could+Do|Reenie+Beanie');
+
+body {
+  background-image: url("https://pre00.deviantart.net/5287/th/pre/f/2007/177/a/8/seamless_parchment_texture_by_fantasystock.jpg");
+  font-family: Kavivanar;
+  font-size: 18pt;
+  margin: 10%;
+}
+details {
+  text-align: left;
+}
+details[open] summary{
+  text-align: right;
+}
+.correction {
+  transform: translate(-100px, -100px);
+}
+summary {
+  background: rgb(140, 110, 90);
+  width: 300px;
+  padding: 5px;
+  margin: 5px;
+}
+.pushDown {
+  margin-top: 70px;
+}
+
+
+.menuSlideDown {
+    animation:slideDown .5s;
+}
+
+@keyframes slideDown {
+   0% {
+     opacity:0;
+     -webkit-transform:translate3d(0, -100%, 0);
+     -ms-transform:translate3d(0, -100%, 0);
+     transform:translate3d(0, -100%, 0)
+   }
+   100% {
+     opacity:.7;
+     -webkit-transform:none;
+     -ms-transform:none;
+     transform:none
+   }
+}
+
+
+.desc {
+  background-image: url("https://i.pinimg.com/736x/df/7f/4c/df7f4c51df5edae3e9bf78fef81f4000--old-texture-vintage-texture.jpg");
+  position: absolute;
+  margin-left: 5px;
+  margin-bottom: 20px;
+  padding: 10px;
+  width: 300px;
+}
+.centerpiece {
+  text-align: center;
+  width: 300px;
+  margin: 5px;
+}
+.harry {
+  font-family: Reenie Beanie;
+  font-size: 17pt;
+}
+.hermione {
+  font-family: Crafty Girls;
+  font-size: 13pt;
+}
+.ron {
+  font-family: Nothing You Could Do;
+  font-size: 14pt;
 }
 
 #contact h1 {
