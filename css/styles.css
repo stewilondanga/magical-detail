@@ -108,11 +108,11 @@ body {
   transition-delay: 0.4s;
 }
 
-/*
 details {
   text-align: left;
 }
-details[open] summary{
+
+/*details[open] summary{
   text-align: right;
 }
 .correction {
