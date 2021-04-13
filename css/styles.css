@@ -116,10 +116,11 @@ details[open] summary {
   text-align: right;
 }
 
-/*.correction {
+.correction {
   transform: translate(-100px, -100px);
 }
-summary {
+
+/*summary {
   background: rgb(140, 110, 90);
   width: 300px;
   padding: 5px;
