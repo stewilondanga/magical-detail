@@ -112,10 +112,11 @@ details {
   text-align: left;
 }
 
-/*details[open] summary{
+details[open] summary {
   text-align: right;
 }
-.correction {
+
+/*.correction {
   transform: translate(-100px, -100px);
 }
 summary {
