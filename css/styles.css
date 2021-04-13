@@ -160,12 +160,13 @@ summary {
   width: 300px;
 }
 
-/*.centerpiece {
+.centerpiece {
   text-align: center;
   width: 300px;
   margin: 5px;
 }
-.harry {
+
+/*.harry {
   font-family: Reenie Beanie;
   font-size: 17pt;
 }
