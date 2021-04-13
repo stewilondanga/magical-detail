@@ -188,6 +188,7 @@ summary {
   color: #c0c0c0;
   padding-top: 50px;
   padding-bottom: 10px;
+  padding-left: 870px;
   width: 375px;
   margin: 0 auto;
 }
@@ -226,7 +227,6 @@ summary {
   color: #04d;
 }
 
-/*
 .cal td {
   padding: 0 2px;
   line-height: 100%;
