@@ -127,11 +127,11 @@ summary {
   margin: 5px;
 }
 
-/*.pushDown {
+.pushDown {
   margin-top: 70px;
 }
 
-
+/*
 .menuSlideDown {
     animation:slideDown .5s;
 }
