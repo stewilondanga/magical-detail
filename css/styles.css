@@ -143,14 +143,15 @@ summary {
     transform: translate3d(0, -100%, 0)
   }
 
-  /*100% {
-     opacity:.7;
-     -webkit-transform:none;
-     -ms-transform:none;
-     transform:none
-   }
+  100% {
+    opacity: .7;
+    -webkit-transform: none;
+    -ms-transform: none;
+    transform: none
+  }
 }
 
+/*
 
 .desc {
   background-image: url("https://i.pinimg.com/736x/df/7f/4c/df7f4c51df5edae3e9bf78fef81f4000--old-texture-vintage-texture.jpg");
